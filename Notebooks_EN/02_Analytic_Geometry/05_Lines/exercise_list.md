@@ -14,27 +14,14 @@
 * Provide a vector perpendicular to the line $x + y + 1 = 0$.
 * #$1)$
 
-The line passes through points
-А
-(
-1
-,
-2
-)
- and
-Б
-(
-3
-,
-4
-)
-. Find the equation of the line.
+The line passes through point $A(1, 2)$ and is parallel to the line $y = 2x + 3$. Find the equation of the line.
 
 1. Find the slope (m):
 
 $y-y_1=m\cdot(x-x_1),\quad y-2=1\cdot(x-1), \quad y=x+1$
 
-#$2)$
+*$2)$
+
 The line passes through point
 А
 (
