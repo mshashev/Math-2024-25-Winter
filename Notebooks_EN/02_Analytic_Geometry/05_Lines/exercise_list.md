@@ -12,3 +12,25 @@
 * The line intersects the coordinate axes at points $A(2, 0)$ and $B(0, 3)$. Find the equation of the line.
 * Calculate the angle between the line $y = x + 3$ and the $Ox$ axis.
 * Provide a vector perpendicular to the line $x + y + 1 = 0$.
+* #$1)$
+
+The line passes through points
+А
+(
+1
+,
+2
+)
+ and
+Б
+(
+3
+,
+4
+)
+. Find the equation of the line.
+
+1. Find the slope (m):
+
+$y-y_1=m\cdot(x-x_1),\quad y-2=1\cdot(x-1), \quad$
+#$y=x+1$
