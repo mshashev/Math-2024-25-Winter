@@ -40,7 +40,8 @@ Find the intersection point of these lines and calculate the angle between them.
 
 To find the intersection point, we need to solve the system of equations:
 
-$\begin{cases}y=2x+3 \\ y=3x+2\end{cases} let's equate \quad\Rightarrow\quad2x+3=3x+2\quad\Rightarrow\quad1=x\quad\Rightarrow\quad x=1 $
+$\begin{cases}y=2x+3\\y=3x+2\end{cases} let's equate \quad\Rightarrow\quad2x+3=3x+2\quad\Rightarrow\quad1=x\quad\Rightarrow\quad x=1 $
+
 $y=2\cdot 1 +3\quad\Rightarrow\quad y=5\quad\Rightarrow\quad$
 
 $intersection(1,5)$
