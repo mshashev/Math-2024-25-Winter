@@ -20,6 +20,8 @@
 
 $y-y_1=m\cdot(x-x_1),\quad y-2=1\cdot(x-1), \quad y=x+1$
 
+2)The line passes through point $A(1, 2)$ and is parallel to the line $y = 2x + 3$. Find the equation of the line.
+
 Since the lines are parallel, they have the same slope.
 
 $m=2 \quad\Rightarrow \quad y-y_1=m\cdot(x-x_1),\quad y-2=2\cdot(x-1), \quad y=2x-2+2,\quad y=2x$
