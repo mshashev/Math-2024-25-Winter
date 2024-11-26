@@ -45,8 +45,7 @@ $\begin{cases}y=2x+3 \\ y=3x+2\end{cases} let's\;equate \quad\Rightarrow\quad2x+
 $y=2\cdot 1 +3\quad\Rightarrow\quad y=5\quad\Rightarrow\quad$
 ###$intersection(1,5)$
 
-$m_1=2\\m_2=3 $
+$m_1=2
+m_2=3 $
 
-$\tan\gamma=|{\frac{m_2-m_1}{1+m_1\cdot m_2}}|=|\frac{3-2}{1+2\cdot3}|=|\frac{1}{7}|=\frac{1}{7}$
-
-###$\arctan(\frac{1}{7})=8.13^0$
+$\tan\gamma=|{\frac{m_2-m_1}{1+m_1\cdot m_2}}|=|\frac{3-2}{1+2\cdot3}|=|\frac{1}{7}|=\frac{1}{7} \arctan(\frac{1}{7})=8.13^0$
