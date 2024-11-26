@@ -34,4 +34,4 @@ The line passes through points
 
 $y-y_1=m\cdot(x-x_1),\quad y-2=1\cdot(x-1), \quad$
 
- #$y=x+1$
+ *$y=x+1$
